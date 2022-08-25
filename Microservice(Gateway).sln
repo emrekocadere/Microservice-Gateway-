@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway", "Gateway\Gateway.csproj", "{DBC1FB60-6CC4-4B15-A1FB-DE606DEB34FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User.Api", "User.Api\User.Api.csproj", "{31B5D2B0-6B1E-410A-9433-49597281F0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Api", "Car.Api\Car.Api.csproj", "{7CDD9F66-870D-4137-B64E-DFF228621C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC1FB60-6CC4-4B15-A1FB-DE606DEB34FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC1FB60-6CC4-4B15-A1FB-DE606DEB34FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC1FB60-6CC4-4B15-A1FB-DE606DEB34FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC1FB60-6CC4-4B15-A1FB-DE606DEB34FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5D2B0-6B1E-410A-9433-49597281F0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5D2B0-6B1E-410A-9433-49597281F0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5D2B0-6B1E-410A-9433-49597281F0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5D2B0-6B1E-410A-9433-49597281F0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDD9F66-870D-4137-B64E-DFF228621C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDD9F66-870D-4137-B64E-DFF228621C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDD9F66-870D-4137-B64E-DFF228621C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDD9F66-870D-4137-B64E-DFF228621C08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D4B46D-3EA4-43E6-B070-140199E95921}
+	EndGlobalSection
+EndGlobal

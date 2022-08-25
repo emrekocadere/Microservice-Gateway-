@@ -1,0 +1,12 @@
+{
+  "DownstreamPathTemplate": "/api/Car",
+  "DownstreamScheme": "http",
+  "DownstreamHostAndPorts": [
+    {
+      "Host": "localhost",
+      "Port": 9000
+    }
+  ],
+  "UpstreamPathTemplate": "/car",
+  "UpstreamHttpMethod": [ "Get" ]
+}
